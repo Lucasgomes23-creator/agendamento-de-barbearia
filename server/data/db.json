@@ -1,0 +1,54 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Corte de Cabelo",
+      "price": 30,
+      "duration": 30
+    },
+    {
+      "id": 2,
+      "name": "Barba",
+      "price": 20,
+      "duration": 20
+    },
+    {
+      "id": 3,
+      "name": "Corte + Barba",
+      "price": 45,
+      "duration": 50
+    },
+    {
+      "id": 4,
+      "name": "Pezinho",
+      "price": 10,
+      "duration": 10
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1763950104936,
+      "customerName": "Teste User",
+      "serviceId": 1,
+      "date": "2025-11-25",
+      "time": "10:00",
+      "createdAt": "2025-11-24T02:08:24.936Z"
+    },
+    {
+      "id": 1763950240211,
+      "customerName": "lucas gomes",
+      "serviceId": 1,
+      "date": "2025-11-25",
+      "time": "07:15",
+      "createdAt": "2025-11-24T02:10:40.211Z"
+    },
+    {
+      "id": 1763950315719,
+      "customerName": "Teste User",
+      "serviceId": 2,
+      "date": "2025-11-23",
+      "time": "05:17",
+      "createdAt": "2025-11-24T02:11:55.719Z"
+    }
+  ]
+}
